@@ -1,0 +1,15 @@
+{
+  "name": "self-documenting-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "remarker": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michał Gutowski",
+  "license": "MIT"
+}
